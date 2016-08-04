@@ -1,0 +1,28 @@
+_repo: A-Heap-o-Livin-_328
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Guest, Edgar A. (Edgar Albert)
+    aliases:
+    - Guest, Edgar Albert
+    - Guest, Eddie
+    birthdate: 1881
+    deathdate: 1959
+    gutenberg_agent_id: '182'
+    url: http://www.gutenberg.org/2009/agents/182
+    wikipedia: http://en.wikipedia.org/wiki/Edgar_Guest
+description: ''
+gutenberg_issued: '1995-09-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '328'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Poetry'
+- GITenberg
+title: A Heap o' Livin'
+url: http://www.gutenberg.org/ebooks/328
